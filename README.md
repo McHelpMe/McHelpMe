@@ -1,13 +1,12 @@
 # Hello, Im McHelpMe
 
 ## 👀 I’m interested in 
- * Video Games
-   * FPS
-   * RTS
- * 
+ ### Gaming and Coding
 
-
-- 🌱 I’m currently learning ...
+## 🌱 I’m currently learning
+ ### * Python
+ ### * C++
+ ### * HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
