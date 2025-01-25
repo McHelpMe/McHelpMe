@@ -1,8 +1,9 @@
-# Hello, Im McHelpMe
+# Hello, IM McHelpMe
  Im currently an IT student that is learning coding
 
 ## 👀 I’m interested in 
  ### Gaming and Coding
+   * I Usually Play Games like Warframe,Project Wingman
 
 ## 🌱 I’m currently learning
  * ###  Python
