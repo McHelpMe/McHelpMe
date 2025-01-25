@@ -1,16 +1,13 @@
 # Hello, Im McHelpMe
+ Im currently an IT student that is learning coding
 
 ## 👀 I’m interested in 
  ### Gaming and Coding
 
 ## 🌱 I’m currently learning
- ### - Python
- ### - C++
- ### - HTML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ * ###  Python
+ * ###  C++
+ * ###  HTML
 
 <!---
 McHelpMe/McHelpMe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
