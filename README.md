@@ -1,8 +1,6 @@
-<p align=center>
- // McHelpMe 
-</p>
+# McHelpMe
 
-- 👀 I’m interested in ...
+## 👀 I’m interested in 
 
 
 - 🌱 I’m currently learning ...
