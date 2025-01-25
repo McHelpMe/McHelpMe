@@ -1,6 +1,10 @@
-# McHelpMe
+# Hello, Im McHelpMe
 
 ## 👀 I’m interested in 
+ * Video Games
+   * FPS
+   * RTS
+ * 
 
 
 - 🌱 I’m currently learning ...
