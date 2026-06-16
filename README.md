@@ -7,7 +7,10 @@
 ## 🕹️ What I Play
 When I'm not coding, you'll find me grinding in:
 - **Warframe** – Tenno at heart
-- **Project Wingman** – Sky's the battlefield
+- **Project Wingman** – Sierra one **FOREVER**
+- **Monster Hunter** – Hunting wyverns, one cart at a time
+- **Rimworld** – War crimes? No, just efficient colony management
+- **Deep Rock Galactic** – Rock and Stone, brother!
 
 ---
 
